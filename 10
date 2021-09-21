@@ -1,0 +1,6 @@
+a = 55
+b = 89
+a = a + b
+b = a - b
+a = a - b
+print("resultat : ")
